@@ -1,0 +1,5 @@
+CREATE TABLE student(
+rollNumber INT PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+marks INT NOT NULL
+);
